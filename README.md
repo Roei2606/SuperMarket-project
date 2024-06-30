@@ -61,15 +61,8 @@ A C-based system for managing supermarket operations.
 3. **Shopping Functionality**:
    - Create shopping lists, process purchases, and generate receipts for customers.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit pull requests for any features or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries or feedback, please contact [your email address].
+For any inquiries or feedback, please contact Roei2606@gmail.com.
 
